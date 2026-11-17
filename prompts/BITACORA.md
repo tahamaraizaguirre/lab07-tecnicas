@@ -70,7 +70,7 @@ Aunque la respuesta directa sea correcta, mostrar los pasos facilita la comprens
 | Claridad | La respuesta fue general y menos estructurada. | Las respuestas fueron claras, específicas y fáciles de revisar. |
 
 
-
+##	Ejercicio	6:	Prompt estructurado y autocritica
 
 | Qué revisar | Cumple (Sí / No) |
 |---|---|
