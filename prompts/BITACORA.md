@@ -83,3 +83,5 @@ Aunque la respuesta directa sea correcta, mostrar los pasos facilita la comprens
 ```text
 Revisa críticamente la tabla de casos de prueba que acabas de generar. Identifica casos importantes que hayas omitido, especialmente validaciones de campos vacíos y formatos incorrectos. Agrega los casos que falten, conserva las 4 columnas originales e indica cuáles son nuevos. Evita casos repetidos o innecesarios.
 ```
+
+
